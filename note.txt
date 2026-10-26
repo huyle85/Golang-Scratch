@@ -1,0 +1,7 @@
+LESSON 01
+-----------------------------------------------------------------------
+go mod init huyle.com/golang-scratch    create go.mod
+go run name.go                          run
+go run .                                run all
+go build .                              exe
+from go build will create file exe and write name file to run
